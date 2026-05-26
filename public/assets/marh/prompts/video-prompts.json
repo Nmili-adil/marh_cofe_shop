@@ -1,0 +1,33 @@
+{
+  "brand": "Marh Coffee Roasters",
+  "videoPrompts": [
+    {
+      "name": "Hero Steam Loop",
+      "file": "/assets/marh/videos/hero-steam-loop.mp4",
+      "duration": "6-8 seconds",
+      "format": "seamless loop",
+      "prompt": "6–8 second seamless cinematic loop of a premium ceramic coffee cup with soft steam rising slowly, dark espresso background, warm golden rim light, floating roasted Arabica beans moving gently, luxury coffee atmosphere, macro shot, slow motion, elegant camera push-in, shallow depth of field, no harsh movement, no fake hands, no distorted objects, perfect for website hero background."
+    },
+    {
+      "name": "Floating Beans Loop",
+      "file": "/assets/marh/videos/beans-floating-loop.mp4",
+      "duration": "5-7 seconds",
+      "format": "seamless loop",
+      "prompt": "5–7 second seamless loop of Arabica coffee beans floating slowly in warm air, soft shadows, slow parallax movement, golden dust particles, dark roasted palette, premium studio lighting, cinematic macro look, elegant calm motion, luxury coffee brand atmosphere."
+    },
+    {
+      "name": "Roasting Cinematic Loop",
+      "file": "/assets/marh/videos/roasting-cinematic-loop.mp4",
+      "duration": "6-8 seconds",
+      "format": "seamless loop",
+      "prompt": "6–8 second cinematic seamless loop showing roasted coffee beans moving inside a coffee roaster, warm fire glow, soft smoke, artisanal roasting craft, premium specialty coffee mood, slow motion, realistic texture, elegant shadows, not industrial, not messy."
+    },
+    {
+      "name": "Cafe Ambience Loop",
+      "file": "/assets/marh/videos/cafe-atmosphere-loop.mp4",
+      "duration": "7-10 seconds",
+      "format": "seamless loop",
+      "prompt": "7–10 second cinematic loop of a warm modern cafe in Marrakech, soft morning light, coffee being served, laptop on table, friends talking gently in background, cozy premium atmosphere, shallow depth of field, calm elegant motion, avoid clear faces, avoid fake hands, luxury hospitality feeling."
+    }
+  ]
+}
